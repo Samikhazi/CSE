@@ -1,2 +1,2 @@
 # CSE
-A demo repository for 
+A demo repository.
