@@ -1,2 +1,1 @@
-# CSE
-A demo repository.
+# ..
